@@ -1,4 +1,7 @@
 console.log("hello git");
 //this method get informain in console
-fun main();
+public static void main(String[] args){
+
+
+}
 //method witch run code
