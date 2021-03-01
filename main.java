@@ -1,7 +1,6 @@
-console.log("hello git");
-//this method get informain in console
-public static void main(String[] args){
-
-
+class main {
+	public static void main(String[] args){
+	object[size] = element;
+	size++; 
+	}
 }
-//method witch run code
