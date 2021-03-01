@@ -1,7 +1,5 @@
-console.log("hello git");
-//this method get informain in console
-public static void main(String[] args){
-
-
+class main{
+	public static void main(String[] args){
+	//TODO : implement add into array list some number
+	}
 }
-//method witch run code
