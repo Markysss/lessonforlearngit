@@ -1,5 +1,7 @@
-class main{
+class main {
+    Object[] objects
 	public static void main(String[] args){
-	//TODO : implement add into array list some number
+	objects[size] = element;
+	size++;
 	}
 }
